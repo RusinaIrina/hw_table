@@ -1,0 +1,37 @@
+table {
+  border: 1px solid lightblue;
+  background: lightblue;
+}
+
+th, td {
+  border: 3px solid lightblue;
+  text-align: center;
+  padding: 5px;
+  vertical-align: top;
+  height: 50px; 
+  width: 50px;
+}
+
+.cell1 {
+  background: Black;
+}
+
+.cell2 {
+  background: Red;
+}
+
+.cell3 {
+  background: Green;
+}
+
+.cell4 {
+  background: Blue;
+}
+
+.cell5 {
+  background: Yellow;
+}
+
+.cell6 {
+  background: Pink;
+}
